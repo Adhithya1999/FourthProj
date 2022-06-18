@@ -1,3 +1,2 @@
-GOAT
 handosme local me
 aggresion local me
